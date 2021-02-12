@@ -1,0 +1,647 @@
+============[Date]============
+[ 2021-02-12 21:09:09  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782863
+ref.message.message_id= 109
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613164147
+ref.message.text= تعریف درس
+
+
+[ref]
+ref.text= false
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(60): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:09:16  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782864
+ref.message.message_id= 110
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613164154
+ref.message.text= تعریف درس
+
+
+[ref]
+ref.text= false
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(60): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:09:32  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782865
+ref.message.message_id= 111
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613164169
+ref.message.text= تعریف درس
+
+
+[ref]
+ref.text= false
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(60): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:32:04  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782884
+ref.message.message_id= 150
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165523
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(42): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:32:13  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782885
+ref.message.message_id= 151
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165532
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(42): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:33:12  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782886
+ref.message.message_id= 152
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165591
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(43): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:33:19  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782887
+ref.message.message_id= 154
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165598
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(43): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:34:19  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782888
+ref.message.message_id= 156
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165657
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(43): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:34:35  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782889
+ref.message.message_id= 158
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165673
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(43): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:35:08  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782890
+ref.message.message_id= 160
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165708
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(42): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:35:09  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782890
+ref.message.message_id= 160
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165708
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(43): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:35:20  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782891
+ref.message.message_id= 161
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165718
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(43): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:35:41  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782892
+ref.message.message_id= 163
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165740
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(42): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:35:58  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782893
+ref.message.message_id= 164
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165758
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(42): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:36:31  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782894
+ref.message.message_id= 165
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165788
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(44): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-12 21:36:48  UTC ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: can't parse keyboard button: Can't find field "text"
+=========[Sent Data]==========
+[ref]
+ref.update_id= 746782895
+ref.message.message_id= 169
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613165805
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= سلام. خوش آمدید. لطفا گزینه مورد نظر را انتخاب کنید
+ref.reply_markup= {"keyboard":[[{"id":1,"name":"\u0641\u06cc\u0632\u06cc\u06a9"}],[{"id":2,"name":"\u0634\u06cc\u0645\u06cc"}],[{"id":3,"name":"\u0632\u06cc\u0633\u062a"}]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(44): sendMessage()
+#5 {main}
+
