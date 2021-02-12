@@ -10,9 +10,13 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 Capsule::schema()->create('users', function($table) {
     $table->increments('id');
 
-    $table->string('name')->nullable();
+    $table->string('user_id');
 
-    $table->string('username');
+    $table->string('firstname')->nullable();
+
+    $table->string('lastname')->nullable();
+
+    $table->string('username')->nullable();
 
     $table->timestamps();
 });

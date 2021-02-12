@@ -9,15 +9,15 @@ $capsule = new Capsule;
 
 
 $capsule->addConnection([
-    "driver" => "mysql",
+    "driver" => config("database", "driver"),
 
-    "host" => "localhost",
+    "host" => config("database", "host"),
 
-    "database" => "ramzani_bot",
+    "database" => config("database", "database"),
 
-    "username" => "admin",
+    "username" => config("database", "username"),
 
-    "password" => "1234"
+    "password" => config("database", "password")
 ]);
 
 

@@ -8,11 +8,12 @@
     ],
     "require": {
         "eleirbag89/telegrambotphp": "^1.3",
-        "illuminate/database": "^8.24"
+        "illuminate/database": "^8.24",
+        "vlucas/phpdotenv": "^5.3"
     },
 
     "autoload": {
-        "files": ["functions.php"],
+        "files": ["functions.php", "config/app.php", "helpers.php"],
         "psr-4": {
             "Models\\": "models/"
         }

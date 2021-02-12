@@ -1,20 +1,20 @@
 <?php
 
-function sendMessage($telegram, $message)
+function sendMessage($telegram, $message, $replayMarkup = null)
 {
     $chatId = $telegram->chatID();
 
-    $content = array("chat_id" => $chatId, "text" => $message);
+    $content = array("chat_id" => $chatId, "text" => $message, "reply_markup" => $replayMarkup);
 
     $telegram->sendMessage($content);
 }
 
 
-function checkEqualMessage($telegram, $message) 
+function checkEqualMessage($telegram, $message): bool
 {
-    $sendedMessageFromUser = $telegram->Text();
+    $messageFromUser = $telegram->Text();
 
-    if ($sendedMessageFromUser === $message) {
+    if ($messageFromUser === $message) {
         return true;
     }
 
