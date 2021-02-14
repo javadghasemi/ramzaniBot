@@ -16,6 +16,8 @@ Capsule::schema()->create('times', function (Blueprint $table) {
     $table->unsignedInteger('lesson_id');
     $table->foreign('lesson_id')->references('id')->on('lessons')->onDelete('cascade');
 
+    $table->boolean("finish");
+
     $table->timestamps();
 });
 

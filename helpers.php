@@ -49,3 +49,19 @@ function isSuperuser($user): bool
 {
     return $user->is_superuser;
 }
+
+function makeZipArchive($fileAddress, $fileName): string
+{
+    $zip = new ZipArchive;
+
+    $filename = __DIR__ . "/zip/" . $fileName;
+    $flag = (file_exists($filename))? ZIPARCHIVE::OVERWRITE : ZIPARCHIVE::CREATE;
+
+    if ($zip->open($filename, $flag) === TRUE) {
+        $zip->addFile($fileAddress);
+        $zip->close();
+        return true;
+    } else {
+        return false;
+    }
+}

@@ -1,0 +1,152 @@
+============[Date]============
+[ 2021-02-13 20:43:35  UTC ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Connection timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 177787434
+ref.message.message_id= 16
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613247846
+ref.message.text= پایان
+
+
+[ref]
+ref.text= 2
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(114): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-13 20:45:47  UTC ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Connection timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 177787434
+ref.message.message_id= 16
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613247846
+ref.message.text= پایان
+
+
+[ref]
+ref.text= 2
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(114): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-13 20:47:58  UTC ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Connection timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 177787434
+ref.message.message_id= 16
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613247846
+ref.message.text= پایان
+
+
+[ref]
+ref.text= 2
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(114): sendMessage()
+#5 {main}
+
+============[Date]============
+[ 2021-02-13 20:50:09  UTC ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443: Connection timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 177787434
+ref.message.message_id= 16
+ref.message.from.id= 84384636
+ref.message.from.is_bot= false
+ref.message.from.first_name= Javad
+ref.message.from.last_name= Ghasemi
+ref.message.from.username= ghasemi_dev
+ref.message.from.language_code= en
+ref.message.chat.id= 84384636
+ref.message.chat.first_name= Javad
+ref.message.chat.last_name= Ghasemi
+ref.message.chat.username= ghasemi_dev
+ref.message.chat.type= private
+ref.message.date= 1613247846
+ref.message.text= پایان
+
+
+[ref]
+ref.text= 2
+ref.reply_markup= 
+
+
+============[Trace]===========
+#0 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(3217): TelegramErrorLogger::log()
+#1 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest()
+#2 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint()
+#3 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/functions.php(9): Telegram->sendMessage()
+#4 /home/javadghasemi/302266052265D080/my_projects/telegramBots/ramzaniBot/index.php(114): sendMessage()
+#5 {main}
+

@@ -10,7 +10,7 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 Capsule::schema()->create('users', function($table) {
     $table->increments('id');
 
-    $table->string('user_id');
+    $table->string('chat_id');
 
     $table->string('firstname')->nullable();
 

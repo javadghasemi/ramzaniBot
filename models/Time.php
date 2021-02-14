@@ -5,17 +5,15 @@ namespace Models;
 use Illuminate\Database\Eloquent\Model as Eloquent;
 
 
-class Lesson extends Eloquent
+class Time extends Eloquent
 {
-    public $timestamps = false;
-
     /**
      * The attributes that are mass assignable.
      *
      * @var array
      */
     protected $fillable = [
-        'name'
+        'lesson_id', 'user_id', "finish"
     ];
 
     /**
@@ -25,8 +23,13 @@ class Lesson extends Eloquent
      */
     protected $hidden = [];
 
-    public function times(): \Illuminate\Database\Eloquent\Relations\HasMany
+    public function lesson(): \Illuminate\Database\Eloquent\Relations\BelongsTo
     {
-        return $this->hasMany(Time::class);
+        return $this->belongsTo(Lesson::class);
+    }
+
+    public function user(): \Illuminate\Database\Eloquent\Relations\BelongsTo
+    {
+        return $this->belongsTo(User::class);
     }
 }

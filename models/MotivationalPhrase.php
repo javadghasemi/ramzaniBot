@@ -5,7 +5,7 @@ namespace Models;
 use Illuminate\Database\Eloquent\Model as Eloquent;
 
 
-class Lesson extends Eloquent
+class MotivationalPhrase extends Eloquent
 {
     public $timestamps = false;
 
@@ -15,7 +15,7 @@ class Lesson extends Eloquent
      * @var array
      */
     protected $fillable = [
-        'name'
+        'text'
     ];
 
     /**
@@ -24,9 +24,4 @@ class Lesson extends Eloquent
      * @var array
      */
     protected $hidden = [];
-
-    public function times(): \Illuminate\Database\Eloquent\Relations\HasMany
-    {
-        return $this->hasMany(Time::class);
-    }
 }
